@@ -1,5 +1,6 @@
-print("программа суммы")
+print("программа суммы и разности")
 a=int(input())
 b=int(input())
 print(a*b)
+print(a+b)
 print(a-b)
